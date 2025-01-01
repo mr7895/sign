@@ -21,7 +21,7 @@ def prob_viz(res, actions, input_frame, colors,threshold):
         
     return output_frame
 
-
+print("test")
 # 1. New detection variables
 sequence = []
 sentence = []
